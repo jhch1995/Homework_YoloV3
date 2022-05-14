@@ -1,5 +1,6 @@
 # Homework_YoloV3
 Neural Networks and Deep Learning Midterm Assignment
+参考项目：https://github.com/bubbliiiing/yolo3-pytorch
 
 ## 训练步骤
 ### a、训练VOC07+12数据集
